@@ -26,4 +26,4 @@ Cats have some weird behaviors left over from them being actually good at huntin
 
 5. Cats have scent glands on their face, so when they rub their faces on things it marks it as their property and serves as an identifier for other cats.
 
-![Russian nesting cats](https://wildcatconservation.org/wp-content/uploads/2013/03/2016-sand-cat-group.jpg "Watch them grooowww")
+![Not very tasty](https://media.mnn.com/assets/images/2018/07/cat_eating_fancy_ice_cream.jpg.838x0_q80.jpg "He asked for chocolate")
