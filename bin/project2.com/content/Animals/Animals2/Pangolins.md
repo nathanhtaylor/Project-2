@@ -25,4 +25,6 @@ draft: false
 
 - They are cool rolly bois
 
+- Pangolin scales are made of keratin, just like our finger nails, and make up 20 per cent of their body weight
+
 ![pangolin curled boi](https://www.africansafaris.com/wp-content/uploads/2016/09/rolled-up-pangolin-photo-credit-and-copyright-wildafricaconservationfund.org_.jpg)
