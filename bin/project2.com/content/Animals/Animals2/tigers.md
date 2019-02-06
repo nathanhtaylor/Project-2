@@ -18,6 +18,7 @@ The Tiger is the largest cat species, most recognizable for its pattern of dark 
 4. The scientific name is Panthera Tigris.
 5. There are 6 types of tigers: Bengal Tiger, Indochinese Tiger, Malayan Tiger, Siberian Tiger, Sumatran Tiger, South China Tiger.
 6. The most endangered type of tiger is the South China Tiger, which is facing the near point of extinction.
+7. Tigers are the largest cat species in the world and the third-largest carnivore on land--only polar and brown bears are larger.
 
 ![Tiger](http://www.undp.org/content/dam/undp/img/environmentandenergy/ecosystems_and_biodiversity/undp_in-Tiger-Midori-Paxton-2016.jpg)
 
