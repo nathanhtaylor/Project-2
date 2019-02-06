@@ -1,14 +1,13 @@
 ---
-title: "Ferret"
+title: "Ferrets"
 slug: ferret
 draft: false
 ---
 
 ##### Author: Eddie Alvarado
+![Two Ferrets] (https://images.wagwalkingweb.com/media/articles/ferret/hairballs/hairballs.jpg?auto=compress&fit=max&ixlib=imgixjs-3.3.2&w=500.jpg "two ferrets")
 
-
-
-# Ferret FACTS
+## Ferret Facts
 
 - The word ferret is from the Latin fur, meaning little thief. Indeed, one of the ferrets favorite activities is stealing and hiding things.
 - Ferrets belong to the weasel (Mustelidae) family. Besides weasels and ferrets, this group of animals also includes minks, otters, and badgers as well as polecats and sables.
@@ -22,4 +21,4 @@ draft: false
 - Baby ferrets are called kits, adult males are called hobs, and adult females are called jills. A castrated male is called a gib and a spayed female is called a sprite. Hobs and gibs are up to 50% larger than jills and sprites.
 - There are about 5 to 7 million pet ferrets in the U.S.
 
-[ferret](https://www.factretriever.com/ferret-facts)
+[Source](https://www.factretriever.com/ferret-facts)

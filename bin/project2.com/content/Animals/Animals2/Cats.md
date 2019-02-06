@@ -4,7 +4,7 @@ slug: cats
 draft: false
 ---
 
-#### Author: Nathan Taylor  
+##### Author: Nathan Taylor  
 
 ![scared cat](https://i.ytimg.com/vi/4ptZPi9e2Ko/maxresdefault.jpg "Cat Scared of Being Touched")
 
@@ -24,4 +24,4 @@ Cats have some weird behaviors left over from them being actually good at huntin
 
 4. Cats are carnivores but will eat grass or house plants to get fiber.
 
-5. Cats have scent glands on their face, so when they rub their faces on things it marks it as their property and serves as an identifier for other cats. 
+5. Cats have scent glands on their face, so when they rub their faces on things it marks it as their property and serves as an identifier for other cats.
