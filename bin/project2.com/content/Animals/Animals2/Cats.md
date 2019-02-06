@@ -25,3 +25,7 @@ Cats have some weird behaviors left over from them being actually good at huntin
 4. Cats are carnivores but will eat grass or house plants to get fiber.
 
 5. Cats have scent glands on their face, so when they rub their faces on things it marks it as their property and serves as an identifier for other cats.
+
+6. Domestic cats spend about 70 percent of the day sleeping. And 15 percent of the day grooming.
+
+![Not very tasty](https://media.mnn.com/assets/images/2018/07/cat_eating_fancy_ice_cream.jpg.838x0_q80.jpg "He asked for chocolate")
