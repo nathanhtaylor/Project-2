@@ -4,7 +4,7 @@ slug: bats
 draft: false
 ---
 
-#### Author: Caleb Williams  
+##### Author: Caleb Williams  
 
 ![Handsome Bat](https://www.bluestemprairie.com/.a/6a00d834516a0869e2017c324a5b47970b-800wi "Bat Smiling for the camera")
 

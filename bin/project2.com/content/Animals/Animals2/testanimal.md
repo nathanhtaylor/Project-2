@@ -1,6 +1,7 @@
 ---
 title: Test animal
 slug: "testanimal"
+draft: true
 ---
 
 This is a test animal page
