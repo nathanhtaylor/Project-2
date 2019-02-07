@@ -5,7 +5,7 @@ draft: false
 ---
 
 ##### Author: Eddie Alvarado
-![Two Ferrets] (https://images.wagwalkingweb.com/media/articles/ferret/hairballs/hairballs.jpg?auto=compress&fit=max&ixlib=imgixjs-3.3.2&w=500.jpg "two ferrets")
+![Two Ferrets](https://images.wagwalkingweb.com/media/articles/ferret/hairballs/hairballs.jpg?auto=compress&fit=max&ixlib=imgixjs-3.3.2&w=500.jpg "two ferrets")
 
 ## Ferret Facts
 
