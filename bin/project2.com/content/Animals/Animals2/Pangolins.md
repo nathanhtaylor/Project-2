@@ -27,4 +27,6 @@ draft: false
 
 - They are cool rolly bois
 
+- They don't have and teeth and can't chew. 
+
 ![pangolin curled boi](https://www.africansafaris.com/wp-content/uploads/2016/09/rolled-up-pangolin-photo-credit-and-copyright-wildafricaconservationfund.org_.jpg)
