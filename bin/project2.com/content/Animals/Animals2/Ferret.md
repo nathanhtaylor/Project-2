@@ -20,5 +20,6 @@ draft: false
 - Ferrets are considered to be geriatric by the time they reach 4 years old.
 - Baby ferrets are called kits, adult males are called hobs, and adult females are called jills. A castrated male is called a gib and a spayed female is called a sprite. Hobs and gibs are up to 50% larger than jills and sprites.
 - There are about 5 to 7 million pet ferrets in the U.S.
+- A group of ferrets is called a business.
 
 [Source](https://www.factretriever.com/ferret-facts)
