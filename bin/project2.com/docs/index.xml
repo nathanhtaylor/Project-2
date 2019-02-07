@@ -11,15 +11,49 @@
     
     
     <item>
+      <title>Bats</title>
+      <link>http://project2.org/animals/animals2/bats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://project2.org/animals/animals2/bats/</guid>
+      <description>Author: Caleb Williams Bats are mammals of the order Chiroptera; with their forelimbs adapted as wings, they are the only mammals naturally capable of true and sustained flight.
+Bat Behavior There are many things about bats that make them unique, among them being:
+ Bats are the second largest order of mammals, comprising about 20% of all classified mammal species.
+ Bats are nocturnal (active at night).
+ Most bats feed on insects, while others eat fruit, fish or even blood!</description>
+    </item>
+    
+    <item>
       <title>Cats</title>
       <link>http://project2.org/animals/animals2/cats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://project2.org/animals/animals2/cats/</guid>
-      <description>Author: Nathan Taylor Cats are domesticated predators that went from dangerous hunters to wimpy and fat pets. They are independent jerks that depend on us for their food.
+      <description>Author: Nathan Taylor Cats are domesticated predators that went from dangerous hunters to wimpy and fat pets (by wimpy and fat I mean cool and suave). They are independent jerks that depend on us for their food (and we depend on them to defend us).
 Cat Behavior Cats have some weird behaviors left over from them being actually good at hunting:
- Cats give humans their dead mice because they see us as part of their group and want to share their kills.
- Cats like squeezing into boxes and tight spaces because it makes them feel more secure.</description>
+ Cats give humans their dead mice because they see us as part of their group and want to share their kills.</description>
+    </item>
+    
+    <item>
+      <title>Ferrets</title>
+      <link>http://project2.org/animals/animals2/ferret/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://project2.org/animals/animals2/ferret/</guid>
+      <description>Author: Eddie Alvarado Ferret Facts  The word ferret is from the Latin fur, meaning little thief. Indeed, one of the ferrets favorite activities is stealing and hiding things. Ferrets belong to the weasel (Mustelidae) family. Besides weasels and ferrets, this group of animals also includes minks, otters, and badgers as well as polecats and sables. An endangered species of ferrets previously thought to extinct, the black-footed ferret, was recently rediscovered in America.</description>
+    </item>
+    
+    <item>
+      <title>Pangolin</title>
+      <link>http://project2.org/animals/animals2/pangolins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://project2.org/animals/animals2/pangolins/</guid>
+      <description>Author: Matt Hajovsky Pangolin FACTS  The name pangolin comes from the Malay word pengguling which means &amp;ldquo;one who rolls up&amp;rdquo;
+ Pangolins are also known as scaly anteaters (because of the scales)
+ They are the only known mammal with protective scales
+ Pangolins are nocturnal and eat mainly ants and termites
+ Of the 8 species of pangolin, 2 are vulnerable, 2 endangered, and 2 are considered critically endangered</description>
     </item>
     
     <item>
@@ -29,26 +63,17 @@ Cat Behavior Cats have some weird behaviors left over from them being actually g
       
       <guid>http://project2.org/animals/animals2/penguinpage/</guid>
       <description> Author: Stephanie Chheng This page is about penguins. Penguins are an aquatic flightless bird, native to the southern hemisphere.
-Penguin fun facts:  They slide when they get tired of walking The smallest penguin species is the Little Blue Penguin standing at only 16 inches They camouflage in the water because their black bend looks like the ocean from above and their white belly looks like the sky from below They have a supraorbital gland that filters saltwater from their blood stream and excrete it by sneezing They molt all at once, it&amp;rsquo;s called a catastrophic molt They mate for life Male Emperor Penguins incubate their egg on top of their feet Penguins do have knees Gentoo penguins can swim up to 22mph Penguins can sleep in the water, standing up, lying down or sitting  </description>
+Penguin fun facts:  They slide when they get tired of walking The smallest penguin species is the Little Blue Penguin standing at only 16 inches They camouflage in the water because their black bend looks like the ocean from above and their white belly looks like the sky from below They have a supraorbital gland that filters saltwater from their blood stream and excrete it by sneezing They molt all at once, it&amp;rsquo;s called a catastrophic molt They mate for life Male Emperor Penguins incubate their egg on top of their feet Penguins do have knees Gentoo penguins can swim up to 22mph Penguins can sleep in the water, standing up, lying down or sitting Happy feet is the second best animated movie to exist (right behind happy feet 2) Penguins love Cheezy Dibbles  </description>
     </item>
     
     <item>
-      <title>Test Chapter</title>
-      <link>http://project2.org/animals/animals2/testchapter/</link>
+      <title>Tigers</title>
+      <link>http://project2.org/animals/animals2/tigers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://project2.org/animals/animals2/testchapter/</guid>
-      <description>This is a test animal page</description>
-    </item>
-    
-    <item>
-      <title>Test animal</title>
-      <link>http://project2.org/animals/animals2/testanimal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://project2.org/animals/animals2/testanimal/</guid>
-      <description>This is a test animal page
-This is a test git commit again and again</description>
+      <guid>http://project2.org/animals/animals2/tigers/</guid>
+      <description>Author: Abdul Khan The Tiger is the largest cat species, most recognizable for its pattern of dark vertical stripes on reddish-oranage fur.
+Cool Tiger Facts:  Life span in captivity is 16-18 years. Average speed of an adult tiger is 30 - 40 pmh. Mass size of an adult male tiger is 200-670 lbs, while the mass size of an adult female is 140 - 370 lbs. The scientific name is Panthera Tigris There are 6 types of tigers: Bengal Tiger, Indochinese Tiger, Malayan Tiger, Siberian Tiger, Sumatran Tiger, South China Tiger.</description>
     </item>
     
   </channel>
