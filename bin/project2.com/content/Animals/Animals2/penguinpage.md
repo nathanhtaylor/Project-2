@@ -23,5 +23,6 @@ This page is about penguins. Penguins are an aquatic flightless bird, native to 
 10. Penguins can sleep in the water, standing up, lying down or sitting
 11. Happy feet is the second best animated movie to exist (right behind happy feet 2) 
 12. Penguins love Cheezy Dibbles
+13. Emperor Penguins can live up to 20 years.
 
 ![Penguin](https://pmcvariety.files.wordpress.com/2014/11/penguins-of-madagascar.jpg?w=1000)
