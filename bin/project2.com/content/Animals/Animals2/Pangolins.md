@@ -19,6 +19,8 @@ draft: false
 
 - Pangolins are nocturnal and eat mainly ants and termites
 
+- Pangolin scales are made of keratin, just like our finger nails, and make up 20 per cent of their body weight
+
 - Of the 8 species of pangolin, 2 are vulnerable, 2 endangered, and 2 are considered critically endangered
 
 - Pangolins look like an artichoke on legs 
