@@ -25,4 +25,6 @@ There are many things about bats that make them unique, among them being:
 
 5. Vampire bats have small and extremely sharp teeth which are capable of piercing an animal’s skin (humans included) without them even noticing.
 
+6. Bats can live for over 20 years.
+
 ![Handsome Bat](https://i.pinimg.com/originals/11/8c/5c/118c5c0ecef1b382c67af82e85571b4a.jpg "Bat Smiling for the camera")
