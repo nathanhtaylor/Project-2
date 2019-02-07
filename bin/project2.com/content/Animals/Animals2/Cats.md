@@ -28,4 +28,6 @@ Cats have some weird behaviors left over from them being actually good at huntin
 
 6. Domestic cats spend about 70 percent of the day sleeping. And 15 percent of the day grooming.
 
+7. A house cat can run faster than Usain Bolt. 
+
 ![Not very tasty](https://media.mnn.com/assets/images/2018/07/cat_eating_fancy_ice_cream.jpg.838x0_q80.jpg "He asked for chocolate")
